@@ -1,7 +1,8 @@
 Name: httpd
 Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
-Source-Url: https://github.com/changeme/
+Source-Url: https://github.com/ntiuto/httpd.git
+Cartridge-Vendor: testApache123
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
 License: "None"
