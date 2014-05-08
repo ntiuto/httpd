@@ -2,7 +2,7 @@ Name: httpd
 Cartridge-Short-Name: HTTPD
 Display-Name: HTTPD Cartridge
 Source-Url: https://github.com/ntiuto/httpd.git
-Cartridge-Vendor: testApache123
+Cartridge-Vendor: ntiuto
 Description: "A httpd cartridge for development use only."
 Version: '0.1'
 License: "None"
